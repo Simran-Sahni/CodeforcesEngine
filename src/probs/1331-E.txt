@@ -1,0 +1,1 @@
+E. Jordan Smileytime 1 secondmemory 256   InputThe input contains two integers $$$row$$$, $$$col$$$ ($$$0 \le row, col \le 63$$$), separated by a single space.OutputOutput "IN" or "OUT".     dfs and similar      geometry      implementation 

@@ -1,0 +1,1 @@
+M. Seven Digit Number (2 points)Let $$$N$$$ be a $$$7$$$-digit number that is divisible by each of its digits. If all the digits of $$$N$$$ are different, find the sum of the digits of $$$N$$$.Test 1 (2 points)Specify the answe     math 

@@ -1,0 +1,1 @@
+C. ...And after happily lived ever theytime 1 secondmemory 256 InputThe input contains a single integer $$$a$$$ ($$$0 \le a \le 63$$$).OutputOutput a single number.     bitmasks 

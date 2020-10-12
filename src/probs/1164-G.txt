@@ -1,0 +1,1 @@
+G. Find Number (1 point)Find the least natural number that has exactly $$$20$$$ natural divisors, exactly $$$4$$$ of which are odd.Test 1 (1 point)Specify the answe     math 

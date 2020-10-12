@@ -1,0 +1,1 @@
+A. Quirky Quantifierstime 2  64 InputThe input contains a single integer a (10 ≤ a ≤ 999).OutputOutput 0 or 1.     math      *800 

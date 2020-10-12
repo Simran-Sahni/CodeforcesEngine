@@ -1,0 +1,1 @@
+R. Divisible by 83 (3 points)Consider the recurrent sequence given by $$$x_0 = 0$$$, $$$x_1 = 4$$$ and $$$x_{n+1} = 4 \cdot x_n - 3 \cdot x_{n-1}$$$ for all natural $$$n$$$. Find the minimum natural $$$n$$$ such that $$$x_n$$$ is divisible by $$$83$$$.Test 1 (3 points)Specify the answe     math 
