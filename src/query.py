@@ -2,16 +2,21 @@ from nltk import *
 from nltk.corpus import stopwords
 from nltk.corpus import wordnet
 from collections import Counter
-from utils import *
-from preprocess import pre_process
 
-import math
 import numpy as np
-import os
-import pickle
 
+
+
+import pickle
+import os
+import math
+from utils import *
+from pathlib import Path
+from preprocess import pre_process
 """ Use the wordnet corpus dataset and return the text representing 
 the expanded query """
+BASE_DIR = Path(__file__).resolve().parent
+PROBS_DIRS = os.path.join(BASE_DIR, 'probs')
 
 def expand_query(text):
     text = text.lower()
@@ -32,7 +37,7 @@ def expand_query(text):
     
 
     #add the similar words to the query
-
+ 
     for word in similar:
         if word not in text:
             text += " " + word
@@ -87,7 +92,7 @@ def query(query, no_of_docs):
 
     document_scores = []
 
-    dir = r'C:\Users\Arabella\Documents\pyspace\probs'
+    dir = PROBS_DIRS
     file_dir = os.listdir(dir)
     file_dir.sort()
 
@@ -101,10 +106,11 @@ def query(query, no_of_docs):
 
     if len(document_scores) < no_of_docs:
         for x in range(len(document_scores)):
-            result.append(document_scores[x])
+            if(document_scores[x][0] != 0):
+                result.append(document_scores[x][1])
     else:
         for x in range(no_of_docs):
-            result.append(document_scores[x])
+            if(document_scores[x][0] != 0):
+                result.append(document_scores[x][1])
 
     return result
-
