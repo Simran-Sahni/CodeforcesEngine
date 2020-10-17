@@ -1,22 +1,24 @@
 import pickle
 import os
 import math
-
 from utils import *
-
+from pathlib import Path
 from preprocess import pre_process
 
 """ Get all of the documents (problem statements) from /problems/*.txt
 returns a list containing all docs """
 
+BASE_DIR = Path(__file__).resolve().parent
+PROBS_DIRS = os.path.join(BASE_DIR, 'probs')
+
 
 def get_docs():
-    dir = r'C:\Users\Arabella\Documents\pyspace\probs'
+    dir = PROBS_DIRS
     documents = []
     file_dir = os.listdir(dir)
     file_dir.sort()
     for file in file_dir:
-        with open(dir + '\\' + file, 'rb') as f:
+        with open(dir + '/' + file, 'rb') as f:
             cor = f.read()
             documents.append(cor.decode('utf8'))
             f.close()
@@ -101,5 +103,4 @@ def calculate_tf_idf_docs():
     pickle_out.close()
 
 calculate_tf_idf_docs()
-
 
