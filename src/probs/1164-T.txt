@@ -1,1 +1,0 @@
-T. Compute the Product (3 points)Let $$$a, b, c, d$$$ be real numbers such that $$$a=\sqrt{7-\sqrt{6-a}}$$$, $$$b=\sqrt{7-\sqrt{6+b}}$$$, $$$c=\sqrt{7+\sqrt{6-c}}$$$ and $$$d=\sqrt{7+\sqrt{6+d}}$$$. Compute the product $$$abcd$$$. Test 1 (3 points)Specify the answe     math 

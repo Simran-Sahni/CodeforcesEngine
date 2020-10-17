@@ -1,1 +1,0 @@
-C. 7-digit Number (1 point)John wants to compose a 7-digit number by using each of the digits $$$1, 2, 3, 4, 5, 6, 7$$$ exactly once, so that the digits 1 and 2 are not neighbouring. In how many ways can he compose such a number?Test 1 (1 point)Specify the answe     math 

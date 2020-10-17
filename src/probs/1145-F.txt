@@ -1,1 +1,0 @@
-F. Neat Wordstime 1 secondmemory 256 InputThe input consists of a single string of uppercase letters A-Z. The length of the string is between 1 and 10 characters, inclusive.OutputOutput "YES" or "NO".

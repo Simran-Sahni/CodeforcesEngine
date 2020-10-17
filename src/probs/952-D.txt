@@ -1,1 +1,0 @@
-D. I'm Feeling Lucky!time 1 secondmemory 256   You have one chip and one chance to play roulette. Are you feeling lucky?OutputPrint your bet. Your chip must be placed entirely within some square (not on an edge or a corner shared by adjacent squares)     probabilities      *1800 

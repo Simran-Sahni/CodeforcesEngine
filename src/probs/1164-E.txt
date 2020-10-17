@@ -1,1 +1,0 @@
-E. Least Possible Difference (1 point)Let $$$x$$$, $$$y$$$, $$$z$$$ and $$$w$$$ be real numbers such that $$$|x-y|=3$$$, $$$|y-z|=7$$$ and $$$|z-w|=12$$$. Find the least possible value of $$$|x-w|$$$.Test 1 (1 point)Specify the answe     math 
