@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Documentation at https://github.com/Simran-Sahni/CodeforcesEngine/blob/master/_build/html/index.html
+Documentation at /_build/html/index.html
 ## Available Scripts
 
 In the project directory, you can run:
