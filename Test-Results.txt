@@ -1,0 +1,325 @@
+Testing using the word - strappingly
+5 queries - 3.5464224815368652 seconds
+10 queries - 2.7945313453674316 seconds
+15 queries - 2.655916690826416 seconds
+20 queries - 2.6103169918060303 seconds
+
+Testing using the word - bagpipe
+5 queries - 3.738102912902832 seconds
+10 queries - 2.7374026775360107 seconds
+15 queries - 2.816640853881836 seconds
+20 queries - 2.8886756896972656 seconds
+
+Testing using the word - pig-yoke
+5 queries - 3.6534998416900635 seconds
+10 queries - 2.7849364280700684 seconds
+15 queries - 2.957488536834717 seconds
+20 queries - 3.3799688816070557 seconds
+
+Testing using the word - incrementalist
+5 queries - 2.820744037628174 seconds
+10 queries - 2.8940653800964355 seconds
+15 queries - 3.012022018432617 seconds
+20 queries - 3.0602192878723145 seconds
+
+Testing using the word - xeroxer
+5 queries - 2.8067665100097656 seconds
+10 queries - 2.8067991733551025 seconds
+15 queries - 3.017455816268921 seconds
+20 queries - 2.9968528747558594 seconds
+
+Testing using the word - hobgoblins
+5 queries - 2.734436511993408 seconds
+10 queries - 2.8164098262786865 seconds
+15 queries - 2.892500638961792 seconds
+20 queries - 2.8615942001342773 seconds
+
+Testing using the word - concretization
+5 queries - 2.7868404388427734 seconds
+10 queries - 2.862642765045166 seconds
+15 queries - 2.932826280593872 seconds
+20 queries - 2.8676910400390625 seconds
+
+Testing using the word - aeromechanical
+5 queries - 2.870415687561035 seconds
+10 queries - 3.083366632461548 seconds
+15 queries - 3.163041353225708 seconds
+20 queries - 2.899184226989746 seconds
+
+Testing using the word - worded
+5 queries - 3.3522825241088867 seconds
+10 queries - 2.8200955390930176 seconds
+15 queries - 2.836435556411743 seconds
+20 queries - 2.8428444862365723 seconds
+
+Testing using the word - preprocessed
+5 queries - 2.7313477993011475 seconds
+10 queries - 2.7692604064941406 seconds
+15 queries - 2.8382809162139893 seconds
+20 queries - 2.832432270050049 seconds
+
+Testing using the word - dictature
+5 queries - 2.727923631668091 seconds
+10 queries - 2.744418144226074 seconds
+15 queries - 2.7391889095306396 seconds
+20 queries - 2.793128490447998 seconds
+
+Testing using the word - limnologist
+5 queries - 2.7049827575683594 seconds
+10 queries - 2.7677066326141357 seconds
+15 queries - 2.8934175968170166 seconds
+20 queries - 2.864945888519287 seconds
+
+Testing using the word - puddy
+5 queries - 4.0160253047943115 seconds
+10 queries - 2.445692539215088 seconds
+15 queries - 2.575599193572998 seconds
+20 queries - 2.6338279247283936 seconds
+
+
+Testing using the word - undifferencing
+5 queries - 3.4698562622070312 seconds
+10 queries - 2.703751564025879 seconds
+15 queries - 2.8454339504241943 seconds
+20 queries - 2.815521717071533 seconds
+
+Testing using the word - novelettes
+5 queries - 2.658099412918091 seconds
+10 queries - 3.6243081092834473 seconds
+15 queries - 2.9049437046051025 seconds
+20 queries - 2.8418118953704834 seconds
+
+Testing using the word - bawdier
+5 queries - 2.755707025527954 seconds
+10 queries - 3.232821226119995 seconds
+15 queries - 3.019653081893921 seconds
+20 queries - 3.210019111633301 seconds
+
+Testing using the word - tinglish
+5 queries - 2.8206217288970947 seconds
+10 queries - 2.834099292755127 seconds
+15 queries - 3.0291786193847656 seconds
+20 queries - 3.023059606552124 seconds
+
+Testing using the word - chapattis
+5 queries - 2.803565263748169 seconds
+10 queries - 2.9300789833068848 seconds
+15 queries - 3.0285017490386963 seconds
+20 queries - 3.057223081588745 seconds
+
+Testing using the word - space-sense
+5 queries - 2.8790059089660645 seconds
+10 queries - 2.8460686206817627 seconds
+15 queries - 2.9685683250427246 seconds
+20 queries - 3.075896739959717 seconds
+
+Testing using the word - hypoglottis
+5 queries - 2.8126564025878906 seconds
+10 queries - 2.8307971954345703 seconds
+15 queries - 2.8660449981689453 seconds
+20 queries - 2.885712146759033 seconds
+
+Testing using the word - unbuild
+5 queries - 2.784658670425415 seconds
+10 queries - 2.8273422718048096 seconds
+15 queries - 3.34670090675354 seconds
+20 queries - 2.904510736465454 seconds
+
+Testing using the word - switchbacked
+5 queries - 2.6733920574188232 seconds
+10 queries - 2.7857656478881836 seconds
+15 queries - 2.8234975337982178 seconds
+20 queries - 2.8527610301971436 seconds
+
+Testing using the word - pedalboats
+5 queries - 2.649425506591797 seconds
+10 queries - 2.716137409210205 seconds
+15 queries - 2.861825466156006 seconds
+20 queries - 2.8040683269500732 seconds
+
+Testing using the word - romping
+5 queries - 2.683924674987793 seconds
+10 queries - 2.7659313678741455 seconds
+15 queries - 2.846637010574341 seconds
+20 queries - 2.8194828033447266 seconds
+
+Testing using the word - unreflected
+5 queries - 2.662883758544922 seconds
+10 queries - 2.8198020458221436 seconds
+15 queries - 2.799053907394409 seconds
+20 queries - 2.935516595840454 seconds
+
+Testing using the word - wood-beetle
+5 queries - 2.645484209060669 seconds
+10 queries - 2.798084020614624 seconds
+15 queries - 2.8064515590667725 seconds
+20 queries - 2.804943323135376 seconds
+
+Testing using the word - wallahs
+5 queries - 2.6976943016052246 seconds
+10 queries - 2.7920548915863037 seconds
+15 queries - 2.8516829013824463 seconds
+20 queries - 2.8061752319335938 seconds
+
+Testing using the word - refreshers
+5 queries - 2.689974308013916 seconds
+10 queries - 2.7262825965881348 seconds
+15 queries - 2.9018819332122803 seconds
+20 queries - 2.8146893978118896 seconds
+
+Testing using the word - packway
+5 queries - 2.6545679569244385 seconds
+10 queries - 2.7790462970733643 seconds
+15 queries - 2.810102939605713 seconds
+20 queries - 2.84141206741333 seconds
+
+Testing using the word - anodal
+5 queries - 2.650923013687134 seconds
+10 queries - 2.713364839553833 seconds
+15 queries - 2.8319740295410156 seconds
+20 queries - 2.8464291095733643 seconds
+
+Testing using the word - Palacios's
+5 queries - 2.698504686355591 seconds
+10 queries - 2.7422525882720947 seconds
+15 queries - 2.8431906700134277 seconds
+20 queries - 2.8175907135009766 seconds
+
+Testing using the word - preadaptation
+5 queries - 2.7302637100219727 seconds
+10 queries - 2.820418357849121 seconds
+15 queries - 2.8062400817871094 seconds
+20 queries - 2.995056390762329 seconds
+
+Testing using the word - honeylocust
+5 queries - 2.726454019546509 seconds
+10 queries - 2.8014612197875977 seconds
+15 queries - 2.951108694076538 seconds
+20 queries - 2.937797784805298 seconds
+
+Testing using the word - sufficingly
+5 queries - 2.7049148082733154 seconds
+10 queries - 2.7401773929595947 seconds
+15 queries - 2.8344480991363525 seconds
+20 queries - 2.8113324642181396 seconds
+
+Testing using the word - crystallize
+5 queries - 2.6659929752349854 seconds
+10 queries - 2.7743966579437256 seconds
+15 queries - 2.8324382305145264 seconds
+20 queries - 2.824760675430298 seconds
+
+Testing using the word - mid-on
+5 queries - 2.699537515640259 seconds
+10 queries - 2.736332416534424 seconds
+15 queries - 2.843360185623169 seconds
+20 queries - 2.8575406074523926 seconds
+
+Testing using the word - here-at
+5 queries - 2.6927316188812256 seconds
+10 queries - 2.817188024520874 seconds
+15 queries - 2.812014579772949 seconds
+20 queries - 2.841270923614502 seconds
+
+Testing using the word - gowkit
+5 queries - 2.730405569076538 seconds
+10 queries - 2.898667812347412 seconds
+15 queries - 2.914832592010498 seconds
+20 queries - 3.0291709899902344 seconds
+
+Testing using the word - malky
+5 queries - 2.6307709217071533 seconds
+10 queries - 2.8785810470581055 seconds
+15 queries - 2.81007719039917 seconds
+20 queries - 2.8521409034729004 seconds
+
+Testing using the word - nonpolice
+5 queries - 2.8256993293762207 seconds
+10 queries - 2.811304807662964 seconds
+15 queries - 2.993340015411377 seconds
+20 queries - 2.834489107131958 seconds
+
+Testing using the word - Midwesterner
+5 queries - 2.7004201412200928 seconds
+10 queries - 2.7921090126037598 seconds
+15 queries - 2.8151192665100098 seconds
+20 queries - 2.8545026779174805 seconds
+
+Testing using the word - trestleworks
+5 queries - 2.6502304077148438 seconds
+10 queries - 2.7259764671325684 seconds
+15 queries - 2.80871319770813 seconds
+20 queries - 2.837418556213379 seconds
+
+Testing using the word - Atticism
+5 queries - 2.742380380630493 seconds
+10 queries - 3.6191985607147217 seconds
+15 queries - 3.924710273742676 seconds
+20 queries - 3.1437466144561768 seconds
+
+Testing using the word - mellisonant
+5 queries - 2.8871426582336426 seconds
+10 queries - 3.226555347442627 seconds
+15 queries - 3.822232484817505 seconds
+20 queries - 3.0796642303466797 seconds
+
+Testing using the word - flyby
+5 queries - 2.7002453804016113 seconds
+10 queries - 2.791957378387451 seconds
+15 queries - 2.821483612060547 seconds
+20 queries - 2.9408767223358154 seconds
+
+Testing using the word - sportsmen
+5 queries - 2.6810529232025146 seconds
+10 queries - 2.7606773376464844 seconds
+15 queries - 2.8429441452026367 seconds
+20 queries - 2.8931832313537598 seconds
+
+Testing using the word - suppresser
+5 queries - 2.659748077392578 seconds
+10 queries - 2.7891156673431396 seconds
+15 queries - 2.854546308517456 seconds
+20 queries - 2.8277902603149414 seconds
+
+Testing using the word - nonfishing
+5 queries - 2.6448512077331543 seconds
+10 queries - 2.7550649642944336 seconds
+15 queries - 2.8768558502197266 seconds
+20 queries - 2.868603467941284 seconds
+
+Testing using the word - well-bestrutted
+5 queries - 2.6590685844421387 seconds
+10 queries - 2.827022075653076 seconds
+15 queries - 2.8508119583129883 seconds
+20 queries - 2.8150112628936768 seconds
+
+Testing using the word - wantonize
+5 queries - 2.803457021713257 seconds
+10 queries - 3.033270835876465 seconds
+15 queries - 2.8214190006256104 seconds
+20 queries - 2.8244404792785645 seconds
+
+Testing using the word - parishes
+5 queries - 2.7510194778442383 seconds
+10 queries - 2.704803466796875 seconds
+15 queries - 2.8360438346862793 seconds
+20 queries - 2.861254930496216 seconds
+
+Testing using the word - uricotelic
+5 queries - 2.678781747817993 seconds
+10 queries - 2.7729573249816895 seconds
+15 queries - 2.8465023040771484 seconds
+20 queries - 2.85280179977417 seconds
+
+Testing using the word - showoffs
+5 queries - 2.7619307041168213 seconds
+10 queries - 2.819774627685547 seconds
+15 queries - 2.9701178073883057 seconds
+20 queries - 2.9266233444213867 seconds
+
+Testing using the word - wageling
+5 queries - 2.6518967151641846 seconds
+10 queries - 2.7737133502960205 seconds
+15 queries - 2.8536245822906494 seconds
+20 queries - 2.8357808589935303 seconds
+
