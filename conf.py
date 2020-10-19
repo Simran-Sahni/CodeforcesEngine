@@ -44,7 +44,6 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 intersphinx_mapping = {'python': ('https://docs.python.org/3', None),
 						'numpy': ('http://docs.scipy.org/doc/numpy/', None),
 						'requests': ('https://requests.readthedocs.io/en/master/',None),
-						'BeautifulSoup': ('https://readthedocs.org/projects/beautiful-soup-4/',None),
 						'ntlk': ('https://www.nltk.org/',None),
 						'Flask': ('https://flask.palletsprojects.com/en/1.1.x/',None),
 						}
